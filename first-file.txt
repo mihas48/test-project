@@ -1,1 +1,3 @@
-First file text
+Third file text
+
+Edited in feature2
